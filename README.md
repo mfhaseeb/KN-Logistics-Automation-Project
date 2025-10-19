@@ -1,8 +1,5 @@
-# KN-Logistics-Automation-Project
+# KN-Logistics-Report-Automation-Project
 VBA automation solution created during a Data Operations internship at Kuehne + Nagel to efficiently generate filtered logistics reports from operational data
-# KN-Logistics-Dashboard-VBA
-
-This project showcases an operational **Excel Dashboard** and its underlying **VBA automation** developed during my Data Operations Internship at **Kuehne + Nagel**.
 
 The solution provides a consolidated view of critical logistics KPIs and includes a custom UserForm to automate the generation of filtered reports for the operations team.
 
