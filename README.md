@@ -34,16 +34,3 @@ This project highlights skills in **AI integration**, data visualization, and cu
 * **AI-Assisted Development:** Demonstrates proficiency in **prompt engineering** and validating AI-generated code to create the functional `UserForm3` and all filtering logic.
 * **Custom User Interface:** The "Report Generation Form" (`UserForm3`) provides a user-friendly interface for filtering data.
 * **Dynamic Data Handling:** The `UserForm_Initialize` routine uses the **Scripting.Dictionary** object for efficient, fast scanning of the `LSP_Booking Sheets` worksheet to dynamically populate the filter lists (Weeks, LSPs, Dates).
-
-### 2. **Excel Dashboard & Data Management**
-
-* **Dynamic Charts:** Uses advanced Excel features (like Pivot Charts or data connections) to visualize weekly trends across 52 weeks of data.
-* **KPI Calculation:** Uses advanced Excel formulas to calculate and display real-time KPIs (e.g., **52.8% On Time Delivery**).
-
----
-
-## 📂 Repository Structure
-
-* `dashboard/`: Contains the final, functional Excel file (`KN_Logistics_Operations_Dashboard.xlsm`).
-* `vba_code/`: Contains the raw VBA code modules for review (e.g., `UserForm3.frm`).
-* `data/`: Contains the simulated dataset used to drive the dashboard (`Raw_Logistics_Data.csv`).
